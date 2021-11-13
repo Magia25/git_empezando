@@ -1,2 +1,2 @@
 # git_empezando
-Est es un proyecto de prueba con git
+Este es un proyecto de prueba con git
